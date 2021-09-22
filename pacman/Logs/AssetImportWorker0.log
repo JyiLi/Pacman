@@ -149,3 +149,242 @@ Received Import Request.
 Start importing Assets/Audios using Guid(73315d8b5b42d45dc91d54e5754aba90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bb61783e2b5c239a9aff9e68368f36a9') in 0.001081 seconds
   Import took 0.003746 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 1008.510191 seconds.
+  path: Assets/Audio Clips
+  artifactKey: Guid(73315d8b5b42d45dc91d54e5754aba90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips using Guid(73315d8b5b42d45dc91d54e5754aba90) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7cbb7d8af2dbc87a90705749fd3f82d') in 0.005404 seconds
+  Import took 0.070285 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1353.948876 seconds.
+  path: Assets/Audio Clips/42 _怪物RPG2_ 音乐曲目(42 ___爱给网_aigei_com.mp3
+  artifactKey: Guid(fc58ef199757a460ab5f44a6a27073e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/42 _怪物RPG2_ 音乐曲目(42 ___爱给网_aigei_com.mp3 using Guid(fc58ef199757a460ab5f44a6a27073e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75c9b9a16ebcc72f8b1bb6713a221690') in 0.858011 seconds
+  Import took 0.880504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 16.920915 seconds.
+  path: Assets/Audio Clips/BG_Game.mp3
+  artifactKey: Guid(fc58ef199757a460ab5f44a6a27073e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/BG_Game.mp3 using Guid(fc58ef199757a460ab5f44a6a27073e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2389e396d5e1560ba078e663761737b2') in 0.014208 seconds
+  Import took 0.016696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 27.961884 seconds.
+  path: Assets/Audio Clips/42 _怪物RPG2_ 音乐曲目(42 ___爱给网_aigei_com (1).mp3
+  artifactKey: Guid(d4c443158d75d46788e6e4d8eba2e013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/42 _怪物RPG2_ 音乐曲目(42 ___爱给网_aigei_com (1).mp3 using Guid(d4c443158d75d46788e6e4d8eba2e013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4922ab91ed65c9c90983217981354a96') in 0.008856 seconds
+  Import took 0.011814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003218 seconds.
+  path: Assets/Audio Clips/42 _怪物RPG2_ 音乐曲目(42 ___爱给网_aigei_com (1).mp3
+  artifactKey: Guid(d4c443158d75d46788e6e4d8eba2e013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/42 _怪物RPG2_ 音乐曲目(42 ___爱给网_aigei_com (1).mp3 using Guid(d4c443158d75d46788e6e4d8eba2e013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4922ab91ed65c9c90983217981354a96') in 0.006418 seconds
+  Import took 0.008989 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.446504 seconds.
+  path: Assets/Audio Clips/BG_Menu.mp3
+  artifactKey: Guid(d4c443158d75d46788e6e4d8eba2e013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/BG_Menu.mp3 using Guid(d4c443158d75d46788e6e4d8eba2e013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5f53290303b4a5d97d5d6cbb9b1db01c') in 0.007299 seconds
+  Import took 0.009806 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 944.147317 seconds.
+  path: Assets/Audio Clips/42 _怪物RPG2_ 音乐曲目(42 ___爱给网_aigei_com.mp3
+  artifactKey: Guid(00e43aafb0e6446fb8ca3d675b7d1159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/42 _怪物RPG2_ 音乐曲目(42 ___爱给网_aigei_com.mp3 using Guid(00e43aafb0e6446fb8ca3d675b7d1159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76e7ae0cd98ac5c45bfd76ff7d77b9e1') in 0.089888 seconds
+  Import took 0.148787 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.169247 seconds.
+  path: Assets/Audio Clips/BG_Scared.mp3
+  artifactKey: Guid(00e43aafb0e6446fb8ca3d675b7d1159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/BG_Scared.mp3 using Guid(00e43aafb0e6446fb8ca3d675b7d1159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c841530941680ccde6dbee3c01058595') in 0.011836 seconds
+  Import took 0.015128 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001254 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.30 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.794 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.28 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1792 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 152.4 MB.
+System memory in use after: 152.4 MB.
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 2250.
+Total: 1.393042 ms (FindLiveObjects: 0.109625 ms CreateObjectMapping: 0.034666 ms MarkObjects: 1.165250 ms  DeleteObjects: 0.082750 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 112.701064 seconds.
+  path: Assets/Scenes/Recreation.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Recreation.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a654aac13e31c8f31e020573f241f176') in 0.023674 seconds
+  Import took 0.026770 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1047.389628 seconds.
+  path: Assets/Audio Clips/42 _怪物RPG2_ 音乐曲目(42 ___爱给网_aigei_com (1).mp3
+  artifactKey: Guid(460ae3d9d88b44d499328d96358bdce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/42 _怪物RPG2_ 音乐曲目(42 ___爱给网_aigei_com (1).mp3 using Guid(460ae3d9d88b44d499328d96358bdce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24df9a2f4737c363e8bbcedb4e65c2f7') in 0.258107 seconds
+  Import took 0.371126 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 15.540865 seconds.
+  path: Assets/Audio Clips/BG_Ghost_dead.mp3
+  artifactKey: Guid(460ae3d9d88b44d499328d96358bdce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/BG_Ghost_dead.mp3 using Guid(460ae3d9d88b44d499328d96358bdce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '503ca91096c27e040372cb11a5231652') in 0.011888 seconds
+  Import took 0.014375 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 57.391629 seconds.
+  path: Assets/Audio Clips/BG_Ghost_Normal.mp3
+  artifactKey: Guid(fc58ef199757a460ab5f44a6a27073e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/BG_Ghost_Normal.mp3 using Guid(fc58ef199757a460ab5f44a6a27073e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6df9ee98cf94832540c5cfc14e2d5880') in 0.016469 seconds
+  Import took 0.019452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.253881 seconds.
+  path: Assets/Audio Clips/BG_Ghost_Scared.mp3
+  artifactKey: Guid(00e43aafb0e6446fb8ca3d675b7d1159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/BG_Ghost_Scared.mp3 using Guid(00e43aafb0e6446fb8ca3d675b7d1159) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b8ac239ebe49a986e60815ab2c87747') in 0.008476 seconds
+  Import took 0.011031 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 457.570244 seconds.
+  path: Assets/Audio Clips/新神雕侠侣-03_爱给网_aigei_com.mp3
+  artifactKey: Guid(63e7c4a8a0bba4d23a5a313f68adcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/新神雕侠侣-03_爱给网_aigei_com.mp3 using Guid(63e7c4a8a0bba4d23a5a313f68adcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '654725d957f38ed086ca14ebc864318a') in 0.047031 seconds
+  Import took 0.072399 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.166140 seconds.
+  path: Assets/Audio Clips/新神雕侠侣-03_爱给网_aigei_com.mp3
+  artifactKey: Guid(63e7c4a8a0bba4d23a5a313f68adcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/新神雕侠侣-03_爱给网_aigei_com.mp3 using Guid(63e7c4a8a0bba4d23a5a313f68adcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '654725d957f38ed086ca14ebc864318a') in 0.013613 seconds
+  Import took 0.017516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 34.904030 seconds.
+  path: Assets/Audio Clips/Moving.mp3
+  artifactKey: Guid(63e7c4a8a0bba4d23a5a313f68adcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/Moving.mp3 using Guid(63e7c4a8a0bba4d23a5a313f68adcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8cf7fb0bd621af23244b7ca78c3cc77') in 0.010828 seconds
+  Import took 0.013284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000547 seconds.
+  path: Assets/Audio Clips/Moving.mp3
+  artifactKey: Guid(63e7c4a8a0bba4d23a5a313f68adcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/Moving.mp3 using Guid(63e7c4a8a0bba4d23a5a313f68adcb19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8cf7fb0bd621af23244b7ca78c3cc77') in 0.005767 seconds
+  Import took 0.008120 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.123819 seconds.
+  path: Assets/Audio Clips/新神雕侠侣-08_爱给网_aigei_com.mp3
+  artifactKey: Guid(b54e36a477a434e7885021782e52a433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/新神雕侠侣-08_爱给网_aigei_com.mp3 using Guid(b54e36a477a434e7885021782e52a433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c435e11764d1f02876fde2b3c1905e1') in 0.015407 seconds
+  Import took 0.019016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000518 seconds.
+  path: Assets/Audio Clips/新神雕侠侣-08_爱给网_aigei_com.mp3
+  artifactKey: Guid(b54e36a477a434e7885021782e52a433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/新神雕侠侣-08_爱给网_aigei_com.mp3 using Guid(b54e36a477a434e7885021782e52a433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1c435e11764d1f02876fde2b3c1905e1') in 0.006693 seconds
+  Import took 0.008988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 28.760460 seconds.
+  path: Assets/Audio Clips/HitWall.mp3
+  artifactKey: Guid(b54e36a477a434e7885021782e52a433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/HitWall.mp3 using Guid(b54e36a477a434e7885021782e52a433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff7338fbb1757435b10bd20afb25539a') in 0.009516 seconds
+  Import took 0.011990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000620 seconds.
+  path: Assets/Audio Clips/HitWall.mp3
+  artifactKey: Guid(b54e36a477a434e7885021782e52a433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/HitWall.mp3 using Guid(b54e36a477a434e7885021782e52a433) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ff7338fbb1757435b10bd20afb25539a') in 0.005562 seconds
+  Import took 0.007725 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 37.389966 seconds.
+  path: Assets/Audio Clips/新神雕侠侣-01_爱给网_aigei_com.mp3
+  artifactKey: Guid(cdab9e91703dd4ade95435ff6eb4b1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/新神雕侠侣-01_爱给网_aigei_com.mp3 using Guid(cdab9e91703dd4ade95435ff6eb4b1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044d094799a6caf974c7ada60e14873e') in 0.009262 seconds
+  Import took 0.011754 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000873 seconds.
+  path: Assets/Audio Clips/新神雕侠侣-01_爱给网_aigei_com.mp3
+  artifactKey: Guid(cdab9e91703dd4ade95435ff6eb4b1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/新神雕侠侣-01_爱给网_aigei_com.mp3 using Guid(cdab9e91703dd4ade95435ff6eb4b1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '044d094799a6caf974c7ada60e14873e') in 0.005903 seconds
+  Import took 0.007996 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.802944 seconds.
+  path: Assets/Audio Clips/Eating.mp3
+  artifactKey: Guid(cdab9e91703dd4ade95435ff6eb4b1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/Eating.mp3 using Guid(cdab9e91703dd4ade95435ff6eb4b1c1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08b251284d078e89183c815125161d62') in 0.006228 seconds
+  Import took 0.008921 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 442.785921 seconds.
+  path: Assets/Audio Clips/夜雨莹心-歌单-1_爱给网_aigei_com.mp3
+  artifactKey: Guid(6760ad2236f1d491cacf825206e98b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/夜雨莹心-歌单-1_爱给网_aigei_com.mp3 using Guid(6760ad2236f1d491cacf825206e98b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '942b5059034594fc06c7baa6fa423677') in 0.029839 seconds
+  Import took 0.054618 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.091312 seconds.
+  path: Assets/Audio Clips/夜雨莹心-歌单-1_爱给网_aigei_com.mp3
+  artifactKey: Guid(6760ad2236f1d491cacf825206e98b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/夜雨莹心-歌单-1_爱给网_aigei_com.mp3 using Guid(6760ad2236f1d491cacf825206e98b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '942b5059034594fc06c7baa6fa423677') in 0.012520 seconds
+  Import took 0.015734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.099726 seconds.
+  path: Assets/Audio Clips/GG.mp3
+  artifactKey: Guid(6760ad2236f1d491cacf825206e98b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Audio Clips/GG.mp3 using Guid(6760ad2236f1d491cacf825206e98b7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '87810afec20465839eaa2a7c03dd851b') in 0.023173 seconds
+  Import took 0.025770 seconds .
+
