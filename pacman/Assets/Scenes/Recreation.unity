@@ -278,6 +278,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 1802345110}
+  - component: {fileID: 1802345111}
   m_Layer: 0
   m_Name: MapController
   m_TagString: Untagged
@@ -299,6 +300,18 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 8
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &1802345111
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1802345109}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a52ba7cda0fd444f90fd929b8057576, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!95 &2032583745 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 6841637298616041237, guid: 61613adf978b7441a87fe61690e213ef, type: 3}
