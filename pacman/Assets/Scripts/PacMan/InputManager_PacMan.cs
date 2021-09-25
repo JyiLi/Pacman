@@ -6,10 +6,16 @@ public class InputManager_PacMan : MonoBehaviour
 {
     Animator anim;
 
+    //Assignment 3 Tween
+    [SerializeField] private GameObject pac;
+    private Tweener tweener;
+
+
     // Start is called before the first frame update
     void Start()
     {
         anim = GetComponent<Animator>();
+        tweener = GetComponent<Tweener>();
     }
 
     // Update is called once per frame
