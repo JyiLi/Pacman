@@ -17,14 +17,14 @@ public class PacManMovement_A3 : MonoBehaviour
     Vector3 TopRPos_PacMan = new Vector3(-8, 13, 0); //2
     Vector3 TopLPos_PacMan = new Vector3(-13, 13, 0); //3
 
-    float duration; //move 1 unit every second
+    float duration; //should be moving 1 unit every second
 
 
     // Start is called before the first frame update
     void Start()
     { 
         //anim_pac = pac.GetComponent<Animator>();
-        duration = 0.1f * Time.deltaTime;
+        duration = 50f * Time.deltaTime;
 
         tweener = GetComponent<Tweener>();
     }

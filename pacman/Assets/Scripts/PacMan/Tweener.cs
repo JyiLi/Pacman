@@ -30,7 +30,7 @@ public class Tweener : MonoBehaviour
             }
         }
         else
-            Debug.LogError("The activeTween is null");
+            Debug.LogWarning("The activeTween is null");
     }
 
     public void AddTween(Transform targetObject, Vector3 startPos, Vector3 endPos, float duration)
