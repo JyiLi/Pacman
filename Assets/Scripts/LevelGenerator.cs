@@ -17,7 +17,10 @@ public class LevelGenerator : MonoBehaviour
 
         for(int i=0; i<ghosts.Length; i++)
         {
-            Instantiate(ghosts[i], new Vector3((float)i, -(float)i, 0), Quaternion.identity);
+            if (i < 3)
+                Instantiate(ghosts[i], new Vector3((float)i, -(float)i, 0), Quaternion.identity);
+            else
+                Instantiate(ghosts[i], new Vector3(-2, -2, 0), Quaternion.identity);
         }
     }
 
